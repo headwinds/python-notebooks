@@ -1,0 +1,10 @@
+*.csv
+*.jpg
+
+birds/*.pkl
+birds/cifar-10-batches-py
+brooklynhomes2003to2017/brooklyn_sales_map.csv
+japan/boars_vs_hornets/*.csv
+iowa/*.csv
+*/*.csv
+*/*.CSV
