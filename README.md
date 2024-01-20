@@ -2,8 +2,10 @@
 a place to store my python notebooks using [Jupyter lab](https://jupyter.org/install)
 
 ```
-jupyter-lab
+jupyter lab
 ```
+
+- [install](https://jupyter.org/install)
 
 ## NLP
 * [how to extract questions with NLTK](https://datascience.stackexchange.com/questions/26427/how-to-extract-question-s-from-document-with-nltk)
